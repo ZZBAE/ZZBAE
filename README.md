@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 <div align="left">
-Hello, I'm ZZBAE <br>
+Hello, I'm 재재 (ZZBAE) <br>
 Thank you for visiting my github. <br>
    <br>
   
