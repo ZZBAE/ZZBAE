@@ -3,10 +3,10 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zzbae&show_icons=true&theme=radical"/>
 
   
-### Hi there 👋
+### Hello 👋
 
 <div align="left">
-Hello, I'm 재재 (ZZBAE) <br>
+Hi, I'm 재재 (ZZBAE) <br>
 Thank you for visiting my github. <br>
    <br>
   
