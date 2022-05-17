@@ -10,8 +10,10 @@ Hi, I'm 재재 (ZZBAE) <br>
 Thank you for visiting my github. <br>
    <br>
   
-- Yagom Academy iOS Career Stater Camp 6th
- <br>
+- Yagom Academy iOS Code Starter Camp 3th
+- Yagom Academy iOS Career Starter Camp 6th
+
+  <br>
  
 </div>
  
