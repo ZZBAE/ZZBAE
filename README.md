@@ -3,7 +3,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zzbae&show_icons=true&theme=radical"/>
 
   
-### Hello 👋
+### Hello Everyone 👋
 
 <div align="left">
 Hi, I'm 재재 (ZZBAE) <br>
