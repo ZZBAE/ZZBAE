@@ -34,3 +34,6 @@ Thank you for visiting my github. <br>
   <br>
  
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkim0109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
