@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&fontAlign=80&fontAlignY=40&color=gradient)
 
 <div align="center">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zzbae&show_icons=true&theme=radical"/>
@@ -20,7 +21,6 @@ Thank you for visiting my github. <br>
 ---
     
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzbae&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
-
 
 ## Skills & Tools
 <div align="left">
