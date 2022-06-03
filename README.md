@@ -2,9 +2,10 @@
 <div align="center">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zzbae&show_icons=true&theme=radical"/>
   
-### Hello Everyone 👋
+### Hello Everyone 🙌🏻
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B2D795&title_bg=%233B9059&icon=awesomelists.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align="left">
+  <div align="left">
 Hi, I'm 재재 (ZZBAE) <br>
 Thank you for visiting my github. <br>
   
@@ -34,6 +35,3 @@ Thank you for visiting my github. <br>
   <br>
  
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkim0109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
