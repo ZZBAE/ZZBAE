@@ -17,16 +17,3 @@ Thank you for visiting my github. <br>
   <br>
  
 </div>
-  
----
-    
-  
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzbae&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
-
-## Skills & Tools
-<div align="left">
-
-  <br>
- 
-  
-</div>
