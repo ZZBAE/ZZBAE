@@ -8,14 +8,12 @@
   <div align="left">
 Hi, I'm 재재 (ZZBAE) <br>
 Thank you for visiting my github. <br>
-  
-   <br>
-
+<br>
 - Yagom Academy iOS Code Starter Camp 3th
 - Yagom Academy iOS Career Starter Camp 6th
-
-  <br>
- 
+<br>
 </div>
-
+<br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzbae&layout=compact)](https://github.com/zzbae/github-readme-stats)
   
