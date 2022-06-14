@@ -15,5 +15,3 @@ Thank you for visiting my github. <br>
 </div>
 <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzbae&layout=compact)](https://github.com/zzbae/github-readme-stats)
-  
