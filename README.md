@@ -10,7 +10,7 @@
 	
 <div align="left">
   <div align="center">
-Hello, I am 재재 🙌🏻 <br>
+ Hello, I am 재재 🙌🏻 <br>
   <div align="center">
 Thank you for visiting my github. <br>
    <br>
