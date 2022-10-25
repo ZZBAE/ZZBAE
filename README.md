@@ -14,9 +14,7 @@
 <div align="left">
   <div align="center">
  안녕하세요, swift를 공부하는 예비 iOS 개발자 재재(ZZBAE)🍓 입니다 <br>
-  <div align="center">
-Thank you for visiting my github. <br>
-   <br>
+  <div align="center">   <br>
  <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZZBAE&count_bg=%23518E22&title_bg=%231B1B1B&icon=ghostery.svg&icon_color=%23F9FFFB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
