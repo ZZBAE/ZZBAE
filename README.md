@@ -13,7 +13,7 @@
 
 <div align="left">
   <div align="center">
- Hello, I am 재재 🙌🏻 <br>
+ 안녕하세요, swift를 공부하는 예비 iOS 개발자 재재(ZZBAE)🍓 입니다 🙌🏻 <br>
   <div align="center">
 Thank you for visiting my github. <br>
    <br>
