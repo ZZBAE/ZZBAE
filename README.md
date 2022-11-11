@@ -3,14 +3,6 @@
 <div align="center"> 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zzbae&show_icons=true&theme=radical"/>
   
-	
-
-
-
-
-
-
-
 <div align="left">
   <div align="center">
  안녕하세요, swift를 공부하는 예비 iOS 개발자 재재(ZZBAE)🍓 입니다 <br>
@@ -28,10 +20,7 @@
 
 <br>
 
----
-  
-  
-	  
+---  
 	  
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZBAE&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
