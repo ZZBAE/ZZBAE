@@ -6,7 +6,8 @@
   
 <div align="left">
 <div align="center">
-안녕하세요, 예비 iOS 개발자 재재(ZZBAE)🍓 입니다 <br>
+안녕하세요, iOS 개발자 재재(변재은) 입니다<br>
+( + 안드로이드 ) <br>
 <div align="center">   <br>
 <div align=center>
 	
