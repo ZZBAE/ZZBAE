@@ -7,7 +7,7 @@
 <div align="left">
 <div align="center">
 안녕하세요, iOS 개발자 재재(변재은) 입니다<br>
-( + 안드로이드 ) <br>
++ 안드로이드도 합니다 <br>
 <div align="center">   <br>
 <div align=center>
 	
@@ -15,8 +15,7 @@
 	 
 </div>
 - Yagom Academy iOS Code Starter Camp 3th<br>
-- Yagom Academy iOS Career Stater Camp 6th
- <br>
+- Yagom Academy iOS Career Stater Camp 6th<br>
 
 </div>
 
