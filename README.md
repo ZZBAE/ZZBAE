@@ -5,9 +5,9 @@
   
 <div align="left">
 <div align="center">
-안녕하세요, iOS 개발자 재재(변재은) 입니다<br>
-+ 안드로이드도 합니다 <br>
-<div align="center">   <br>
+안녕하세요, iOS 개발자 재재(변재은) 입니다 <br>
++ 안드로이드, CSS 찍먹 <br>
+<div align="center"> <br>
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZZBAE&count_bg=%23A1C08A&title_bg=%233C8033&icon=apple.svg&icon_color=%23E7E7E7&title=Thank+you+for+visiting&edge_flat=false)](https://hits.seeyoufarm.com)
