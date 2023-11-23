@@ -13,8 +13,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZZBAE&count_bg=%23A1C08A&title_bg=%233C8033&icon=apple.svg&icon_color=%23E7E7E7&title=Thank+you+for+visiting&edge_flat=false)](https://hits.seeyoufarm.com)
 	 
 </div>
-- Yagom Academy iOS Code Starter Camp 3th<br>
-- Yagom Academy iOS Career Stater Camp 6th<br>
+Yagom Academy iOS Code Starter Camp 3th<br>
+Yagom Academy iOS Career Stater Camp 6th<br>
 <br>
 🏢 GenieTaxRo 2023.09 ~
 
