@@ -15,6 +15,8 @@
 </div>
 - Yagom Academy iOS Code Starter Camp 3th<br>
 - Yagom Academy iOS Career Stater Camp 6th<br>
+<br>
+🏢 GenieTaxRo 2023.09 ~
 
 </div>
 
