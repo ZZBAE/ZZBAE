@@ -2,10 +2,10 @@
 <div align="center"> 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ZZBAE&show_icons=true&theme=merko"/>
 <div align="left">
-<div align="center">
+<div align="left">
 안녕하세요, iOS 개발자 재재(변재은) 입니다 <br>
-<div align="center"> <br>
-<div align=center>
+<div align="left"> <br>
+<div align=left>
 	 
 </div>
 📝 Yagom Academy iOS Code Starter Camp 3th<br>
